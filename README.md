@@ -6,7 +6,7 @@
 
 ### Information 
 
-- macOS: [Ventura](https://www.apple.com/macos/sonnma/)
+- macOS: [Sonoma](https://www.apple.com/macos/sonoma/)
 - bootloader: [OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.7)
 
 ---
