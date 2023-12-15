@@ -4,6 +4,7 @@
 
 ---
 
-# Specification
+# Hardware
 
-[](https://www.msi.cn/Motherboard/MEG-Z490-GODLIKE/Specification)
+[Specification](https://www.msi.cn/Motherboard/MEG-Z490-GODLIKE/Specification)
+
