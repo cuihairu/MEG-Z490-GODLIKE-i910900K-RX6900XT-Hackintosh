@@ -22,6 +22,44 @@
 	<string>1.1</string>
 	<key>IOKitPersonalities</key>
 	<dict>
+		<key>3:0:2</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
+			<key>IOClass</key>
+			<string>AppleUSBHostMergeProperties</string>
+			<key>IOParentMatch</key>
+			<dict>
+				<key>IOPropertyMatch</key>
+				<dict>
+					<key>pcidebug</key>
+					<string>3:0:2</string>
+				</dict>
+			</dict>
+			<key>IOProviderClass</key>
+			<string>AppleUSBHostController</string>
+			<key>IOProviderMergeProperties</key>
+			<dict>
+				<key>port-count</key>
+				<data>
+				AgAAAA==
+				</data>
+				<key>ports</key>
+				<dict>
+					<key>HS01</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>
+						AgAAAA==
+						</data>
+					</dict>
+				</dict>
+			</dict>
+			<key>model</key>
+			<string>imac20,2</string>
+		</dict>
 		<key>_SB.PCI0.RP01.PXSX.TBDU.XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
@@ -33,7 +71,7 @@
 				<key>IOPropertyMatch</key>
 				<dict>
 					<key>pcidebug</key>
-					<string>8:0:0</string>
+					<string>9:0:0</string>
 				</dict>
 			</dict>
 			<key>IOProviderClass</key>
@@ -67,7 +105,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac20,2</string>
+			<string>imac20,2</string>
 		</dict>
 		<key>_SB.PCI0.XHC</key>
 		<dict>
@@ -141,7 +179,7 @@
 					<key>HS06</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>0</integer>
 						<key>port</key>
 						<data>
 						BwAAAA==
@@ -150,7 +188,7 @@
 					<key>HS07</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>0</integer>
 						<key>port</key>
 						<data>
 						CAAAAA==
@@ -181,6 +219,15 @@
 						<key>port</key>
 						<data>
 						DQAAAA==
+						</data>
+					</dict>
+					<key>HS11</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>255</integer>
+						<key>port</key>
+						<data>
+						DgAAAA==
 						</data>
 					</dict>
 					<key>SS01</key>
@@ -222,7 +269,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>iMac20,2</string>
+			<string>imac20,2</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
