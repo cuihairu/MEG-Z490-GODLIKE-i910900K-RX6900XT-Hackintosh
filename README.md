@@ -4,18 +4,6 @@
 
 ---
 
-# Hardware
-
-[Specification](https://www.msi.cn/Motherboard/MEG-Z490-GODLIKE/Specification)
-
-## Rog-STRIX-Z590-A-Gaming-WIFI-II-Hackintosh
-
-Install macOS Ventura on [ORG Z590-A Gaming Wifi II](https://rog.asus.com/motherboards/rog-strix/rog-strix-z590-a-gaming-wifi-ii-model/) Mainboard with 10th Gen Intel CPU.
-
-![snaphot](docs/snaphot.png)
-
----
-
 ### Information 
 
 - macOS: [Ventura](https://www.apple.com/macos/sonnma/)
@@ -35,6 +23,8 @@ Install macOS Ventura on [ORG Z590-A Gaming Wifi II](https://rog.asus.com/mother
 | Graphics     | AMD Radeon RX 6900xt      | [www.amd.com](https://www.amd.com/en/products/graphics/amd-radeon-rx-6900-xt)                                                                |
 | WiFi / BT    | Intel AX201/BCM94360CD    | [www.intel.com](https://www.intel.com/content/www/us/en/products/sku/130293/intel-wifi-6-ax201-gig/specifications.html)                      |
 
+
+[Specification](https://www.msi.cn/Motherboard/MEG-Z490-GODLIKE/Specification)
 
 ---
 
