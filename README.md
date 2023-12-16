@@ -30,9 +30,37 @@
 
 ### BIOS 
 
-- firmware 
+#### firmware 
 
 [Version 7C70v1D](https://www.msi.cn/Motherboard/MEG-Z490-GODLIKE/support)
+
+
+#### settings
+
+- Enable D.T.M and Select UEFI Mode
+
+![D.T.M](docs/bios/dtm.bmp)
+
+- Graphic 
+
+![graphic](docs/bios/graphic.bmp)
+
+
+- Close CFG Lock and Enable Intel Virtualization Tech and Enable Intel VT-D Tech and Disable SGX
+
+![cpu_features](docs/bios/cpu_features.bmp)
+![cfg](docs/bios/cfg.bmp)
+
+
+- Secure boot
+
+![secure boot](docs/bios/secure_boot.bmp)
+
+![secure_boot_disable](docs/bios/secure_boot_disable.bmp)
+
+- Fan
+
+![fan](docs/bios/fan.bmp)
 
 
 
