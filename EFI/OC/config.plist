@@ -278,7 +278,7 @@
 			<key>RebuildAppleMemoryMap</key>
 			<true/>
 			<key>ResizeAppleGpuBars</key>
-			<integer>1</integer>
+			<integer>0</integer>
 			<key>SetupVirtualMap</key>
 			<true/>
 			<key>SignalAppleOS</key>
@@ -325,7 +325,7 @@
 				<key>layout-id</key>
 				<data>AQAAAA==</data>
 				<key>model</key>
-				<string>Canon Lake PCH cAVS</string>
+				<string>Comet Lake PCH cAVS</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
