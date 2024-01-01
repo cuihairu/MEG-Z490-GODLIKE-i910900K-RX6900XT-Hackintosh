@@ -71,7 +71,7 @@
 				<key>IOPropertyMatch</key>
 				<dict>
 					<key>pcidebug</key>
-					<string>9:0:0</string>
+					<string>10:0:0</string>
 				</dict>
 			</dict>
 			<key>IOProviderClass</key>
@@ -127,7 +127,7 @@
 			<dict>
 				<key>port-count</key>
 				<data>
-				FgAAAA==
+				FQAAAA==
 				</data>
 				<key>ports</key>
 				<dict>
@@ -170,19 +170,19 @@
 					<key>HS05</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>9</integer>
 						<key>port</key>
 						<data>
-						BgAAAA==
+						BQAAAA==
 						</data>
 					</dict>
 					<key>HS06</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>0</integer>
+						<integer>255</integer>
 						<key>port</key>
 						<data>
-						BwAAAA==
+						BgAAAA==
 						</data>
 					</dict>
 					<key>HS07</key>
@@ -191,10 +191,19 @@
 						<integer>0</integer>
 						<key>port</key>
 						<data>
-						CAAAAA==
+						BwAAAA==
 						</data>
 					</dict>
 					<key>HS08</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>
+						CAAAAA==
+						</data>
+					</dict>
+					<key>HS09</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
@@ -203,7 +212,7 @@
 						CQAAAA==
 						</data>
 					</dict>
-					<key>HS09</key>
+					<key>HS10</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>9</integer>
@@ -212,22 +221,13 @@
 						CwAAAA==
 						</data>
 					</dict>
-					<key>HS10</key>
-					<dict>
-						<key>UsbConnector</key>
-						<integer>255</integer>
-						<key>port</key>
-						<data>
-						DQAAAA==
-						</data>
-					</dict>
 					<key>HS11</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
 						<data>
-						DgAAAA==
+						DQAAAA==
 						</data>
 					</dict>
 					<key>SS01</key>
@@ -260,10 +260,10 @@
 					<key>SS04</key>
 					<dict>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>9</integer>
 						<key>port</key>
 						<data>
-						FgAAAA==
+						FQAAAA==
 						</data>
 					</dict>
 				</dict>
