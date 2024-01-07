@@ -1214,7 +1214,7 @@
 			<key>ScanPolicy</key>
 			<integer>33521411</integer>
 			<key>SecureBootModel</key>
-			<string>Disabled</string>
+			<string>j185f</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
