@@ -1452,7 +1452,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 amfi=0x80 ipc_control_port_options=0 agdpmod=pikera -alcid=100 -wegbeta -vsmcbeta</string>
+				<string>-v keepsyms=1 swd_panic=1 debug=0x100 amfi=0x80 ipc_control_port_options=0 agdpmod=pikera -alcid=100 -wegbeta -vsmcbeta</string>
 				<key>csr-active-config</key>
 				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
