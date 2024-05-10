@@ -7,7 +7,7 @@
 ### Information 
 
 - macOS: [Sonoma](https://www.apple.com/macos/sonoma/)
-- bootloader: [OpenCore 0.9.9](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.9.9)
+- bootloader: [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases/latest)
 
 ---
 
