@@ -77,6 +77,9 @@
 |      RadeonSensor.kext       |    v2.2.0    | [ChefKissInc/RadeonSensor](https://github.com/ChefKissInc/RadeonSensor/releases) |
 |     RestrictEvents.kext      |    v1.1.4    | [acidanthera/RestrictEvents](https://github.com/acidanthera/RestrictEvents) |
 |         NVMeFix.kext         |    v1.1.1    | [acidanthera/NVMeFix](https://github.com/acidanthera/NVMeFix) |
+|     AppleALC.kext            |    v1.9.1    | [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC/releases)          |
+|     CpuTscSync.kext          |    v1.1.0    | [acidanthera/CpuTscSync](https://github.com/acidanthera/CpuTscSync/releases)      |
+| HibernationFixup.kext        |    v1.5.1    | [acidanthera/HibernationFixup](https://github.com/acidanthera/HibernationFixup/releases)    |
 |       AirpotItlwm.kext       |    v2.3.0    | [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm/releases) |
 | IntelBluetootchFirmware.kext |    v2.4.0    | [OpenIntelWireless/IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) |
 |     IntelBTPatcher.kext      |    v2.4.0    | [OpenIntelWireless/IntelBTPatcher.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) |
