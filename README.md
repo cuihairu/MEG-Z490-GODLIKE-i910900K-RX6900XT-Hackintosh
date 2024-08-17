@@ -23,6 +23,8 @@
 | Graphics     | AMD Radeon RX 6900xt      | [www.amd.com](https://www.amd.com/en/products/graphics/amd-radeon-rx-6900-xt)                                                                |
 | Audio        | Realtek ALC1220           | [Supported-codecs](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs)                                                            |
 | WiFi / BT    | Intel AX201/BCM94360CD    | [www.intel.com](https://www.intel.com/content/www/us/en/products/sku/130293/intel-wifi-6-ax201-gig/specifications.html)                      |
+| Lan          | Aquantia® AQC107 10G      | [Aquantia]()                                                                                                                                 |    
+| Lan          | Realtek® RTL8125B 2.5G    | [Realtek]()                                                                                                                                  |
 | PC Case      | phanteks PH-ES518XTG      | [phanteks.cn](https://phanteks.cn/Evolv_Series/PH-ES518XTG)                                                                                  |
 
 [Specification](https://www.msi.cn/Motherboard/MEG-Z490-GODLIKE/Specification)
