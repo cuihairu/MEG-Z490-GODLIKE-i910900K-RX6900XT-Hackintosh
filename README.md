@@ -35,7 +35,7 @@
 
 #### firmware 
 
-[Version 7C70v1D](https://www.msi.cn/Motherboard/MEG-Z490-GODLIKE/support)
+[Version 7C70v1E](https://www.msi.cn/Motherboard/MEG-Z490-GODLIKE/support)
 
 
 #### settings
