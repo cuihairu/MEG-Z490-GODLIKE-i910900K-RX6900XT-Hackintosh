@@ -49,7 +49,10 @@
 ![graphic](docs/bios/graphic.bmp)
 
 
-- Close CFG Lock and Enable Intel Virtualization Tech and Enable Intel VT-D Tech and Disable SGX
+- Close CFG Lock
+- Enable Intel Virtualization Tech
+- Enable Intel VT-D Tech
+- Disable SGX
 
 ![cpu_features](docs/bios/cpu_features.bmp)
 ![cfg](docs/bios/cfg.bmp)
