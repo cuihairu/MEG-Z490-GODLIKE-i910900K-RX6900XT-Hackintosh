@@ -79,7 +79,7 @@
 |      SMCProcessor.kext       |    v1.3.3    | [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) |
 |       SMCSuperIO.kext        |    v1.3.3    | [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) |
 |       VirtualSMC.kext        |    v1.3.3    | [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) |
-|      RadeonSensor.kext       |    v2.2.0    | [ChefKissInc/RadeonSensor](https://github.com/ChefKissInc/RadeonSensor/releases) |
+|      RadeonSensor.kext       |    v2.3.0    | [ChefKissInc/RadeonSensor](https://github.com/ChefKissInc/RadeonSensor/releases) |
 |     RestrictEvents.kext      |    v1.1.4    | [acidanthera/RestrictEvents](https://github.com/acidanthera/RestrictEvents) |
 |         NVMeFix.kext         |    v1.1.1    | [acidanthera/NVMeFix](https://github.com/acidanthera/NVMeFix) |
 |     AppleALC.kext            |    v1.9.1    | [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC/releases)          |
