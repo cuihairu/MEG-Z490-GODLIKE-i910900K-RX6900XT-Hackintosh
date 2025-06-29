@@ -88,7 +88,7 @@
 |       AirpotItlwm.kext       |    v2.3.0    | [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm/releases) |
 | IntelBluetootchFirmware.kext |    v2.4.0    | [OpenIntelWireless/IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) |
 |     IntelBTPatcher.kext      |    v2.4.0    | [OpenIntelWireless/IntelBTPatcher.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) |
-|      BlueToolFixup.kext      |    v2.6.9    | [acidanthera/BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM/releases) |
+|      BlueToolFixup.kext      |    v2.7.0    | [acidanthera/BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM/releases) |
 |      FeatureUnlock.kext      |    v1.1.7    | [acidanthera/FeatureUnlock](https://github.com/acidanthera/FeatureUnlock/releases) |
 |       USBToolBox.kext        |    v1.1.1    | [USBToolBox/kext](https://github.com/USBToolBox/kext/releases) |
 |         UTBMap.kext          |    v1.1.1    | [USBToolBox/tool](https://github.com/USBToolBox/tool)     |
@@ -107,13 +107,13 @@ App:
 
 ### Utils
 
-| Name                                 | Version      | Author                                                                                                             |
-|:------------------------------------:|:------------:|:------------------------------------------------------------------------------------------------------------------:|
-| ioreg                                | v3.0.2       | [khronokernel/IORegistryClone](https://github.com/khronokernel/IORegistryClone/blob/master/ioreg-302.zip)          |
-| Hackintool                           | v4.0.3       | [benbaker76/Hackintool](https://github.com/benbaker76/Hackintool/releases)                                         |
-| OpenCore Configurator                | v2.76.10     | [occ](https://mackie100projects.altervista.org/download-opencore-configurator/)                                    |
-| MonitorControl                       | v4.2.0       | [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases)                                        |
-| OpenCore-Legacy-Patcher              | v1.5.0       | [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) |
+|          Name           | Version  |                            Author                            |
+| :---------------------: | :------: | :----------------------------------------------------------: |
+|          ioreg          |  v3.0.2  | [khronokernel/IORegistryClone](https://github.com/khronokernel/IORegistryClone/blob/master/ioreg-302.zip) |
+|       Hackintool        |  v4.0.3  | [benbaker76/Hackintool](https://github.com/benbaker76/Hackintool/releases) |
+|  OpenCore Configurator  | v2.76.10 | [occ](https://mackie100projects.altervista.org/download-opencore-configurator/) |
+|     MonitorControl      |  v4.3.3  | [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases) |
+| OpenCore-Legacy-Patcher |  v2.4.0  | [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) |
 
 ---
 
