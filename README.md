@@ -75,25 +75,25 @@
 |             Kext             |   Version    |                            Author                            |
 | :--------------------------: | :----------: | :----------------------------------------------------------: |
 |    XHCI-unsupported.kext     |    v0.9.2    | [RehabMan/OS-X-USB-Inject-All](https://github.com/RehabMan/OS-X-USB-Inject-All/tree/master/XHCI-unsupported.kext) |
-|          Lilu.kext           |    v1.7.0    | [acidanthera/Lilu](https://github.com/acidanthera/Lilu/releases) |
-|      SMCProcessor.kext       |    v1.3.6    | [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) |
-|       SMCSuperIO.kext        |    v1.3.6    | [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) |
-|       VirtualSMC.kext        |    v1.3.6    | [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) |
+|          Lilu.kext           |    v1.7.1    | [acidanthera/Lilu](https://github.com/acidanthera/Lilu/releases) |
+|      SMCProcessor.kext       |    v1.3.7    | [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) |
+|       SMCSuperIO.kext        |    v1.3.7    | [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) |
+|       VirtualSMC.kext        |    v1.3.7    | [acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) |
 |      RadeonSensor.kext       |    v2.3.1    | [ChefKissInc/RadeonSensor](https://github.com/ChefKissInc/RadeonSensor/releases) |
-|     RestrictEvents.kext      |    v1.1.5    | [acidanthera/RestrictEvents](https://github.com/acidanthera/RestrictEvents) |
-|         NVMeFix.kext         |    v1.1.2    | [acidanthera/NVMeFix](https://github.com/acidanthera/NVMeFix) |
-|     AppleALC.kext            |    v1.9.4    | [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC/releases)          |
-|     CpuTscSync.kext          |    v1.1.1    | [acidanthera/CpuTscSync](https://github.com/acidanthera/CpuTscSync/releases)      |
-| HibernationFixup.kext        |    v1.5.3    | [acidanthera/HibernationFixup](https://github.com/acidanthera/HibernationFixup/releases)    |
+|     RestrictEvents.kext      |    v1.1.6    | [acidanthera/RestrictEvents](https://github.com/acidanthera/RestrictEvents) |
+|         NVMeFix.kext         |    v1.1.3    | [acidanthera/NVMeFix](https://github.com/acidanthera/NVMeFix) |
+|     AppleALC.kext            |    v1.9.5    | [acidanthera/AppleALC](https://github.com/acidanthera/AppleALC/releases)          |
+|     CpuTscSync.kext          |    v1.1.2    | [acidanthera/CpuTscSync](https://github.com/acidanthera/CpuTscSync/releases)      |
+| HibernationFixup.kext        |    v1.5.4    | [acidanthera/HibernationFixup](https://github.com/acidanthera/HibernationFixup/releases)    |
 |       AirpotItlwm.kext       |    v2.3.0    | [OpenIntelWireless/itlwm](https://github.com/OpenIntelWireless/itlwm/releases) |
 | IntelBluetootchFirmware.kext |    v2.4.0    | [OpenIntelWireless/IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) |
 |     IntelBTPatcher.kext      |    v2.4.0    | [OpenIntelWireless/IntelBTPatcher.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) |
-|      BlueToolFixup.kext      |    v2.7.0    | [acidanthera/BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM/releases) |
-|      FeatureUnlock.kext      |    v1.1.7    | [acidanthera/FeatureUnlock](https://github.com/acidanthera/FeatureUnlock/releases) |
+|      BlueToolFixup.kext      |    v2.7.1    | [acidanthera/BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM/releases) |
+|      FeatureUnlock.kext      |    v1.1.8    | [acidanthera/FeatureUnlock](https://github.com/acidanthera/FeatureUnlock/releases) |
 |       USBToolBox.kext        |    v1.1.1    | [USBToolBox/kext](https://github.com/USBToolBox/kext/releases) |
 |         UTBMap.kext          |    v1.1.1    | [USBToolBox/tool](https://github.com/USBToolBox/tool)     |
-|      WhateverGreen.kext      |    v1.6.9    | [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) |
-|    AirportBrcmFixup.kext     |    v2.1.9    | [acidanthera/AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup/releases) |
+|      WhateverGreen.kext      |    v1.7.0    | [acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) |
+|    AirportBrcmFixup.kext     |    v2.2.0    | [acidanthera/AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup/releases) |
 |LucyRTL8125Ethernet.kext| v1.2.2 | [Mieze/LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet/releases) |
 
 App:
